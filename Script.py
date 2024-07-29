@@ -58,7 +58,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+bxa7pKmXMCFjMjJl>𝐔𝐩𝐝𝐚𝐭𝐞ꜱ</a></b>
 """
 
-    CABOUT_TXT = """<b>"""<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},【ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴍᴀᴛᴇʀɪᴀʟ ᴘʀᴏᴠɪᴅᴇʀ ᴏꜰ ꜱᴛᴜᴅʏ ᴏᴄᴇᴀɴ 
+    CABOUT_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},【ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴍᴀᴛᴇʀɪᴀʟ ᴘʀᴏᴠɪᴅᴇʀ ᴏꜰ ꜱᴛᴜᴅʏ ᴏᴄᴇᴀɴ 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
 📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
