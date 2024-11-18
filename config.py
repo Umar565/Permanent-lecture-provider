@@ -13,7 +13,7 @@ def is_enabled(value, default):
         return default
       
 # Bot Information
-API_ID = int(environ.get("API_ID", "23475322"))
+API_ID = int(environ.get("API_ID", "6170050819 5868554818 23475322"))
 API_HASH = environ.get("API_HASH", "e00e5cebf073df8baba7db34ea0ebdc9")
 BOT_TOKEN = environ.get("BOT_TOKEN", "8061533845:AAGG2uyg3QAEL2t1nnlzUyAMuyQm2bU0UnY")
 
