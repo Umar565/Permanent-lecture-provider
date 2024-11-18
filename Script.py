@@ -15,7 +15,7 @@ class script(object):
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/+JSZz2aDlR4o4MTQ1)</b>""" 
+Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/+W22-C6-c5Ck1NTE1)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -51,11 +51,11 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/+bxa7pKmXMCFjMjJl>ʏᴏᴜᴛᴜʙᴇʀ ᴋɪɴɢ</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/+W22-C6-c5Ck1NTE1>𝐔𝐩𝐝𝐚𝐭𝐞ꜱ</a>
 
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/+JSZz2aDlR4o4MTQ1>𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+bxa7pKmXMCFjMjJl>𝐔𝐩𝐝𝐚𝐭𝐞ꜱ</a></b>
+📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+W22-C6-c5Ck1NTE1>𝐔𝐩𝐝𝐚𝐭𝐞ꜱ</a></b>
 """
 
     CABOUT_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},【ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴍᴀᴛᴇʀɪᴀʟ ᴘʀᴏᴠɪᴅᴇʀ ᴏꜰ ꜱᴛᴜᴅʏ ᴏᴄᴇᴀɴ 
