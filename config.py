@@ -15,11 +15,11 @@ def is_enabled(value, default):
 # Bot Information
 API_ID = int(environ.get("API_ID", "23475322"))
 API_HASH = environ.get("API_HASH", "e00e5cebf073df8baba7db34ea0ebdc9")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8061533845:AAEBYVnIkcMw2-qRzmwThbegolH1HNw3yk0")
 
 PICS = (environ.get('PICS', 'https://graph.org/file/04aa01515e5c9fca02854.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6170050819').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "batches_lecture_provider_bot") # without @
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6170050819 5868554818 6169992190').split()]
+BOT_USERNAME = environ.get("BOT_USERNAME", "Notes_Provider_All_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
