@@ -15,11 +15,11 @@ def is_enabled(value, default):
 # Bot Information
 API_ID = int(environ.get("API_ID", "23475322"))
 API_HASH = environ.get("API_HASH", "e00e5cebf073df8baba7db34ea0ebdc9")
-BOT_TOKEN = environ.get("BOT_TOKEN", "8061533845:AAGG2uyg3QAEL2t1nnlzUyAMuyQm2bU0UnY")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7258416061:AAHkMGZb9bKBq2c2nWr2babwAevca5a-97k")
 
 PICS = (environ.get('PICS', 'https://graph.org/file/04aa01515e5c9fca02854.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6170050819 5868554818 6169992190').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "Notes_Provider_All_bot") # without @
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6170050819').split()]
+BOT_USERNAME = environ.get("BOT_USERNAME", "batches_lecture_provider_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
@@ -30,7 +30,7 @@ CLONE_DB_URI = environ.get("CLONE_DB_URI", "mongodb+srv://yefixi9254:hu8ldGaA0le
 CDB_NAME = environ.get("CDB_NAME", "clonetechvj")
 
 # Database Information
-DB_URI = environ.get("DB_URI", "mongodb+srv://MainNotesbotdb:notesbotdb@cluster0.7ehnn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = environ.get("DB_URI", "mongodb+srv://permanentfilestore:GfPVyF4pJ4sZqIwA@cluster0.8ydsjwe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = environ.get("DB_NAME", "techvj")
 
 # Auto Delete Information
@@ -62,10 +62,10 @@ VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/How_To_Verify_By_
 WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', True)) # Set True or False
 
 # If Website Url Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
-WEBSITE_URL = environ.get("WEBSITE_URL", "https://studyoceanlectures.blogspot.com/2024/11/study-ocean.html") # For More Information Check Video On Yt - @Tech_VJ
+WEBSITE_URL = environ.get("WEBSITE_URL", "https://studyoceanredirect.blogspot.com/2024/07/study-ocean.html") # For More Information Check Video On Yt - @Tech_VJ
 
 # File Stream Config
-STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or False
+STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or False
 
 # If Stream Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 MULTI_CLIENT = False
@@ -76,4 +76,3 @@ if 'DYNO' in environ:
 else:
     ON_HEROKU = False
 URL = environ.get("URL", "")
-
