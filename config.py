@@ -18,7 +18,7 @@ API_HASH = environ.get("API_HASH", "e00e5cebf073df8baba7db34ea0ebdc9")
 BOT_TOKEN = environ.get("BOT_TOKEN", "7258416061:AAHkMGZb9bKBq2c2nWr2babwAevca5a-97k")
 
 PICS = (environ.get('PICS', 'https://graph.org/file/04aa01515e5c9fca02854.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6170050819 7031570418').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6170050819 7031570418 6895497681').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "batches_lecture_provider_bot") # without @
 PORT = environ.get("PORT", "8080")
 
